@@ -1,3 +1,5 @@
+alert('Welcome to Rock, Paper, Scissors Game! Click on an icon to play.');
+
 let userScore = 0;
 let compScore = 0;
 
